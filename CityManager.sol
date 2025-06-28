@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
-// All required LayerZero interfaces and contracts are now included in this single file.
+
 
 interface ILayerZeroEndpointV2 {
     function send(
